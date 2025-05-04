@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+
+# Executables
+/bin/
+/*.out
+*.exe
+
+# Build artifacts
+*.log
+*.tmp
+
+# Editor/IDE files
+*~
+*.swp
+*.bak
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Emacs
+*#
+.#*
+
+# Generated files
+*.dSYM/
